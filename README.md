@@ -21,7 +21,7 @@
 ### About Me
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img align="left" src="https://github.com/varunsainadh-116/varunsainadh-116/blob/main/assets/Conflict.gif" height="310" width="250" style="box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);">
+    <img align="left" src="https://github.com/varunsainadh-116/varunsainadh-116/blob/main/assets/Conflict.gif" height="260" width="250" style="box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);">
 
 
 ```markdown
