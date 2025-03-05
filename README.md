@@ -2,7 +2,7 @@
 
 <!-- Main Top PC GIF -->
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/varunsainadh-116/varunsainadh-116/blob/main/assets/WorkEnvironment.gif" height="auto" width="100%" />
+    <img src="https://github.com/varunsainadh-116/varunsainadh-116/blob/main/assets/WorkEnvironment.gif" height="auto" width="90%" />
 </div>
 
 <!-- Profile Views & Typing SVG -->
