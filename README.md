@@ -12,7 +12,7 @@
         <img src="https://komarev.com/ghpvc/?username=varunsainadh-116&label=Profile%20views&color=0e75b6&style=flat" alt="varunsainadh-116" />
     </p> -->
     <a href="https://github.com/DashingAdi">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=F7004D&background=FFE15700&center=true&vCenter=true&width=500&lines=Hello,+I'm+Varun;Cloud+%26+DevOps+Developer;Automate+everything;if+it+can+be+scripted,+it+will!" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=41A0AA&background=FFE15700&center=true&vCenter=true&width=500&lines=Hello,+I'm+Varun;Cloud+%26+DevOps+Developer;Automate+everything;if+it+can+be+scripted,+it+will!" />
     </a>
 </div>
 
@@ -97,9 +97,7 @@ varunsainadh@github:~$ ./welcome.sh
     <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Workspace</b> -->
     <p align="center" style="display: flex; gap: 9px; flex-wrap: wrap;">
       <!-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg" alt="Windows 11" height="25" /> -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" alt="Linux" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg" alt="Ubuntu" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg" alt="Mac OS" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" alt="Arch Linux" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg" alt="Kali Linux" height="25" />
     </p>
