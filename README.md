@@ -3,6 +3,7 @@
 <!-- Main Top PC GIF -->
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/varunsainadh-116/varunsainadh-116/blob/main/assets/codes.gif" height="auto" width="100%" />
+    <img src="https://github.com/varunsainadh-116/varunsainadh-116/blob/main/assets/WorkEnvironment.gif" height="auto" width="95%" />
 </div>
 
 <!-- Profile Views & Typing SVG -->
@@ -110,7 +111,6 @@ varunsainadh@github:~$ ./welcome.sh
 <!-- Github Stat -->
 
 <div style="display: flex; align-items="center"/>
-  <img width="47% height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SmoggyOwO&langs_count=6&count_private=true&layout=compact&theme=transparent&hide_rank=false&border_radius=10&hide_border=true&text_color=a3a3a3" alt="Languages Graph" />
+  <img width="47% height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=varunsainadh-116&langs_count=6&count_private=true&layout=compact&theme=transparent&hide_rank=false&border_radius=10&hide_border=true&text_color=a3a3a3" alt="Languages Graph" />
 </div>
-
 
