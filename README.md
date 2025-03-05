@@ -2,7 +2,11 @@
 
 <!-- Main Top PC GIF -->
 <div style="display: flex; justify-content: center;">
+<<<<<<< HEAD
     <img src="https://github.com/varunsainadh-116/varunsainadh-116/blob/main/assets/codes.gif" height="auto" width="100%" />
+=======
+    <img src="https://github.com/varunsainadh-116/varunsainadh-116/blob/main/assets/WorkEnvironment.gif" height="auto" width="95%" />
+>>>>>>> 8ca04a148e642cb214753ecd2e5fe1c1fe1b923b
 </div>
 
 <!-- Profile Views & Typing SVG -->
@@ -114,3 +118,8 @@ varunsainadh@github:~$ ./welcome.sh
 </div>
 
 
+<<<<<<< HEAD
+=======
+    
+</div>
+>>>>>>> 8ca04a148e642cb214753ecd2e5fe1c1fe1b923b
