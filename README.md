@@ -20,7 +20,7 @@
 
 <!-- About Me Section -->
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img align="left" src="https://github.com/varunsainadh-116/varunsainadh-116/blob/main/assets/Conflict.gif" height="550" width="250" style="box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);">
+    <img align="left" src="https://github.com/varunsainadh-116/varunsainadh-116/blob/main/assets/Conflict.gif" height="800" width="250" style="box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);">
 
 
 ```markdown
@@ -32,10 +32,8 @@ varunsainadh@github:~$ ./welcome.sh
 🔎 Main interests: Web Development & Cyber Security
 🔭 Thriving on building robust Backend Systems.
 🌱 Currently diving into Cloud Computing and Next.js
-🌟 Proficient in: C++, TypeScript
 💼 Open to collaboration on innovative Web development projects!
 🚩 Keep coding, keep innovating! Let's build the future together!
-🐧 I use Arch btw...
 🎧 Most likely listening to a song right now
 🔄 To understand recursion, you first need to understand recursion.
 
@@ -106,9 +104,4 @@ varunsainadh@github:~$ ./welcome.sh
 </div>
 
 <hr>
-<!-- Github Stat -->
-
-<div style="display: flex; align-items="center"/>
-  <img width="47% height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=varunsainadh-116&langs_count=6&count_private=true&layout=compact&theme=transparent&hide_rank=false&border_radius=10&hide_border=true&text_color=a3a3a3" alt="Languages Graph" />
-</div>
 
